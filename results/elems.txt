@@ -1,0 +1,1 @@
+Group	1: <m:oMathPara> <m:oMath> <m:f> <m:fPr> <m:ctrlPr> <m:num> <m:r> <m:t> <m:den> <m:r> <m:t> <m:nary> <m:naryPr> <m:chr> <m:limLoc> <m:supHide> <m:ctrlPr> <m:sub> <m:r> <m:t> <m:sup> <m:e> <m:sSub> <m:sSubPr> <m:ctrlPr> <m:e> <m:r> <m:t> <m:sub> <m:r> <m:t> <m:r> <m:t>

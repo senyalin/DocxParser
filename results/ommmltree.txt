@@ -1,0 +1,12 @@
+<oMath>: 
+	<f>: 
+		<num>: 1
+		<den>: N
+	<nary>: 
+		<Bind_OP>: ∑
+		<BOsub>: n
+		<e>: 
+			<sSub>: 
+				<e>: g
+				<sub>: n
+	<e>: =0
